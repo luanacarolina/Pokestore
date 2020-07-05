@@ -1,8 +1,7 @@
 # Desafio: Loja Online - Pokestore
 
-Olá Alô Devsss,
 
-Hoje estamos trazendo aqui mais um desafio, para que vocês possam colocar a mão na massa e praticarem tudo que aprenderam até agora, assim possam solidificar o conhecimento, se aventurando em mais uma prática Yay
+Hoje estamos trazendo aqui mais um desafio, para que vocês possam colocar a mão na massa e praticarem tudo que aprenderam até agora, assim possam solidificar o conhecimento, se aventurando em mais uma prática.
 
 
 Sabendo disso, queremos que você vivencie a experiência de construir uma loja virtual, e nos mostre como você imaginaria ser uma loja de Pokémon. Isso mesmo.
